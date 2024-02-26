@@ -4,7 +4,7 @@ Question Number ===> 4
 
 Programming Language ===> Python
 
-Program Name ===> The fourth exercise
+Program Name ===> The Fourth exercise
 
 Question ===> Write a Program That Displays The Text as shown below:
 
