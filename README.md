@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Name ===> The Fourth Exercise
 
-Question ===> Write A Program That Displays The Text As Shown below:
+Question ===> Write A Program That Displays The Text As Shown Below:
 
 Python
          is a high-level
